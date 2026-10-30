@@ -1,4 +1,4 @@
-# Credit Card Customer Segmentation
+~ Credit Card Customer Segmentation
 
 An end-to-end Machine Learning project that uses **K-Means Clustering** to segment credit card customers based on their spending behaviour, purchase patterns and financial activity.
 
