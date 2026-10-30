@@ -6,7 +6,7 @@ The project includes Exploratory Data Analysis (EDA), data preprocessing, cluste
 
 ## Live Demo
 
-**Streamlit Application:** [View Live App](ADD_YOUR_STREAMLIT_APP_LINK_HERE)
+**Streamlit Application:** [View Live App](https://credit-card-customer-segmentation-geaofnmbppdgqxhyfcmvhn.streamlit.app/)
 
 ## Project Overview
 
